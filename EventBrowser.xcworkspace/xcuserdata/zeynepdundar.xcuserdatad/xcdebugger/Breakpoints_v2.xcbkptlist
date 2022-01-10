@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5EC618DB-9507-46BA-A06A-58181EDF7154"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.AddressBreakpoint">
+         <BreakpointContent
+            uuid = "6083F232-D696-4A75-86FE-E55DFF583729"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "*0x7fff6bf982bb">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA004E42-B0A2-416A-A0C9-C6A80A2EC17F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EventBrowser/ViewControllers/CategoryPickerViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B547F8D1-79A8-4128-BBEB-E8B313D726E5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EventBrowser/ViewControllers/CategoryPickerViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19D97F01-EBF1-4417-BDFA-3026533F473D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EventBrowser/ViewControllers/CategoryPickerViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "CategoryPickerViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F287396C-A93F-4DB8-AF7A-98E3F14A11D0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EventBrowser/Cells/FilteredCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "F287396C-A93F-4DB8-AF7A-98E3F14A11D0 - 8aad9a76485db4b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EventBrowser.FilteredCollectionViewCell.__allocating_init(frame: __C.CGRect) -&gt; EventBrowser.FilteredCollectionViewCell"
+                  moduleName = "EventBrowser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zeynepdundar/Downloads/IOS-termproject-main/EventBrowser/Cells/FilteredCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "F287396C-A93F-4DB8-AF7A-98E3F14A11D0 - 2a3a9f1cfd8eeaf6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EventBrowser.FilteredCollectionViewCell.init(frame: __C.CGRect) -&gt; EventBrowser.FilteredCollectionViewCell"
+                  moduleName = "EventBrowser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zeynepdundar/Downloads/IOS-termproject-main/EventBrowser/Cells/FilteredCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "113">
+               </Location>
+               <Location
+                  uuid = "F287396C-A93F-4DB8-AF7A-98E3F14A11D0 - 5c0c4a0a5ee589d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EventBrowser.FilteredCollectionViewCell.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;EventBrowser.FilteredCollectionViewCell&gt;"
+                  moduleName = "EventBrowser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zeynepdundar/Downloads/IOS-termproject-main/EventBrowser/Cells/FilteredCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "F287396C-A93F-4DB8-AF7A-98E3F14A11D0 - 85b69a882d4f1b1f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EventBrowser.FilteredCollectionViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;EventBrowser.FilteredCollectionViewCell&gt;"
+                  moduleName = "EventBrowser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zeynepdundar/Downloads/IOS-termproject-main/EventBrowser/Cells/FilteredCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "78">
+               </Location>
+               <Location
+                  uuid = "F287396C-A93F-4DB8-AF7A-98E3F14A11D0 - 34e0959bfc8ac393"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EventBrowser.FilteredCollectionViewCell.__deallocating_deinit"
+                  moduleName = "EventBrowser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zeynepdundar/Downloads/IOS-termproject-main/EventBrowser/Cells/FilteredCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7AF4EB35-4BC5-4B33-957F-0394EBE03159"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EventBrowser/ViewControllers/EventsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "EventsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "7AF4EB35-4BC5-4B33-957F-0394EBE03159 - f5677ed067702eac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EventBrowser.EventsViewController.eventsTableView.getter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "EventBrowser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zeynepdundar/Downloads/IOS-termproject-main/EventBrowser/ViewControllers/EventsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "7AF4EB35-4BC5-4B33-957F-0394EBE03159 - 8d5f1ee4d03252b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EventBrowser.EventsViewController.eventsTableView.setter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "EventBrowser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zeynepdundar/Downloads/IOS-termproject-main/EventBrowser/ViewControllers/EventsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "7AF4EB35-4BC5-4B33-957F-0394EBE03159 - a47575ff8a3c8b5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EventBrowser.EventsViewController.eventsTableView.modify : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "EventBrowser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zeynepdundar/Downloads/IOS-termproject-main/EventBrowser/ViewControllers/EventsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "7AF4EB35-4BC5-4B33-957F-0394EBE03159 - 39803643207924c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EventBrowser.EventsViewController.eventsTableView.modify : Swift.Optional&lt;__C.UITableView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "EventBrowser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zeynepdundar/Downloads/IOS-termproject-main/EventBrowser/ViewControllers/EventsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "7AF4EB35-4BC5-4B33-957F-0394EBE03159 - a175120da7d9df0f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EventBrowser.EventsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; EventBrowser.EventsViewController"
+                  moduleName = "EventBrowser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zeynepdundar/Downloads/IOS-termproject-main/EventBrowser/ViewControllers/EventsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "7AF4EB35-4BC5-4B33-957F-0394EBE03159 - 3f307559bd5bc7bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EventBrowser.EventsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;EventBrowser.EventsViewController&gt;"
+                  moduleName = "EventBrowser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zeynepdundar/Downloads/IOS-termproject-main/EventBrowser/ViewControllers/EventsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "237">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
